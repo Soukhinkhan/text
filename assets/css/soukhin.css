@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: uppercase !important;
+    color: #211E3B;
+}
+.Testimonials{
+    background: #F8F8FD;
+    padding: 100px 0px;
+}
+.Testimonials-img img{
+    float: left;
+    margin-right: 15px;
+}
+/* raju start */
+.author-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.qurae-element{
+    position: absolute;
+    top: 55px;
+    right: 30px;
+}
+/* raju end */
+.Testimonials-men .men img{
+    float: left;
+}
+.Testimonials-img h2{
+    margin-top: 24px;
+    font-family: 'Nunito';
+    font-weight: bold;
+}
+.Testimonials-img h3{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.Testimonials-img h2{
+    font-family: 'Nunito';
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+}
+.Testimonials-img p{
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+.card{
+    margin-top: 50px;
+    padding: 30px 0;
+}
+.card .girl .min img{
+    float: right;
+}
+.girl p{
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.girl .logo img{
+    margin-top: 20px;
+}
+.card .men{
+    margin-top: 50px;
+}
+.owl-nav {
+    display: block !important;
+}
+.owl-prev{
+    right: 7%;
+    width: 59px;
+	height: 59px;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+    border: solid #448DE0;
+	position: absolute;
+	top: -16%;
+    color: #448DE0;
+}
+
+.owl-next{
+    right: 1%;
+    width: 59px;
+	height: 59px;
+	background: #086AD7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	position: absolute;
+	top: -16%;
+    color: #fff;
+}
